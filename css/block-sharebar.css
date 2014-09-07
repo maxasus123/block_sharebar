@@ -1,0 +1,16 @@
+body #block-sharebar{
+    list-style: none;
+    height: 25px;
+}
+
+
+body #block-sharebar .facebook,
+body #block-sharebar .twitter,
+body #block-sharebar .googleplus,
+body #block-sharebar .printfriendly{
+    float: right;
+    width: 100px;
+}
+#block-block-sharebar-block-sharebar-configurable-text{
+	margin: 0;
+}

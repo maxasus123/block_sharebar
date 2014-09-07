@@ -1,0 +1,1054 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"node",
+				"node_now"
+			],
+			[
+				"cr",
+				"created"
+			],
+			[
+				"front",
+				"Frontpage"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"set",
+				"set_open"
+			],
+			[
+				"sli",
+				"slide_image_default"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"rs",
+				"rstatus"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"animate"
+			],
+			[
+				"zone-b",
+				"zone-branding-wrapper"
+			],
+			[
+				"bl",
+				"block-title"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"gr",
+				"group_bundles"
+			],
+			[
+				"z",
+				"zone-branding"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"et",
+				"center"
+			],
+			[
+				"titl",
+				"title-features"
+			],
+			[
+				"block-feat",
+				"block-features-2"
+			],
+			[
+				"block-f",
+				"block-features-2"
+			],
+			[
+				"connt",
+				"content-features"
+			],
+			[
+				"block",
+				"block-features"
+			],
+			[
+				"bloc",
+				"block-menu-menu-first"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"pre",
+				"percent"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"tid",
+				"tid_trem"
+			],
+			[
+				"s",
+				"slideshow"
+			],
+			[
+				"al",
+				"all-products"
+			],
+			[
+				"blocl",
+				"block-views-demo-content-slideshow-block-1"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"n",
+				"news-title"
+			],
+			[
+				"blo",
+				"block-locale-language"
+			],
+			[
+				"ad",
+				"additional_fields"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"nd",
+				"node-270"
+			],
+			[
+				"vi",
+				"view-navigation"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"view",
+				"view-id-faq"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"user",
+				"user_is_logged_in"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"inp",
+				"input-group-btn"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"g",
+				"global"
+			],
+			[
+				"endf",
+				"endif"
+			],
+			[
+				"v",
+				"views-responsive-grid"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"oic",
+				"oic-consumer-menu"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"Mod",
+				"module"
+			],
+			[
+				"Con",
+				"config"
+			],
+			[
+				"si",
+				"simplenews-block-form-2"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"fr",
+				"first"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"in",
+				"incl	include …"
+			],
+			[
+				"bot",
+				"border-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"nam",
+				"name_css"
+			],
+			[
+				"th",
+				"theme"
+			],
+			[
+				"dru",
+				"drupal_add_js"
+			],
+			[
+				"js_offline_t",
+				"js_offline_list_theme_css"
+			],
+			[
+				"js_",
+				"js_offline_theme_show"
+			],
+			[
+				"files",
+				"filescss"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fil",
+				"filescss"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"na",
+				"national_id"
+			],
+			[
+				"form_",
+				"form_error"
+			],
+			[
+				"check_",
+				"check_dconnec_web_services"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"nat",
+				"nationId"
+			],
+			[
+				"Na",
+				"national_id"
+			],
+			[
+				"fo",
+				"form_state"
+			],
+			[
+				"fi",
+				"field_member_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Macbob/Sites/hugcondo/sites/default/settings.php",
+		"/Users/Macbob/Sites/oic/sites/all/themes/oicmain/css/oicmain-alpha-default-normal.css",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views_has_new/views/views_has_new_handler_field.inc",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/haaksqr/haaksqr.module",
+		"/Users/Macbob/Downloads/responsive-20131115/galleryformatter.tpl.php",
+		"/Users/Macbob/Sites/pop/sftp-config.json",
+		"/Users/Macbob/Sites/biothai/sftp-config.json",
+		"/Users/Macbob/Sites/oic/sites/all/themes/oicmain/css/oicmain-alpha-default.css",
+		"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme/css/homenettheme-alpha-default-normal.css",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/style.css",
+		"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme/template.php",
+		"/Users/Macbob/Documents/Projcet/bob.in.th/.htaccess",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/template/views/about_me/views-view--about-me.tpl.php",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/template/views/about_me/views-view-unformatted--about-me.tpl.php",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/template/views/about_me/views-view-fields--about-me.tpl.php",
+		"/Users/Macbob/Sites/pop/sites/default/settings.php",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/inc/theme-settings-design.inc",
+		"/Users/Macbob/Sites/pop/sites/all/modules/custom/md_magnum_module/md_magnum_module.module",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/md_magnum.info",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/template/views/work/views-view-unformatted--work--block.tpl.php",
+		"/Users/Macbob/Sites/pop/sites/all/themes/md_magnum/template/views/work/views-view--work--block.tpl.php",
+		"/Users/Macbob/Documents/Projcet/pop/themeforest-6940345-magnum-creative-portfolio-drupal-theme/md-magnum/sites/all/modules/custom/md_magnum_module/md_magnum_module.module",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/Macbob/Documents/Git/views_has_new/views/views_has_new_handler_field.inc",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/show_debug/show_debug.info",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/show_debug/show_debug.module",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/templates/page.tpl.php",
+		"/Users/Macbob/Sites/biothai/sites/all/modules/google_cse/google_cse.module",
+		"/Users/Macbob/Sites/biothai/sites/default/settings.php",
+		"/Users/Macbob/Sites/biothai/sites/all/modules/google_cse/google_cse.js",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/haaksqr/haaknav/haaknav.module",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/template.php",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/templates/node--blogpost.tpl.php",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/templates/node.tpl.php",
+		"/Users/Macbob/Sites/biothai/sites/all/modules/contrib/sharebar/sharebar.module",
+		"/Users/Macbob/Sites/biothai/sites/all/themes/biothai/theme-settings.php",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/i18n/i18n_sync/i18n_sync.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/aloha/README.txt",
+		"/Users/Macbob/Sites/demo/sites/all/modules/jeditable/README.txt",
+		"/Users/Macbob/Sites/demo/sites/all/modules/jeditable/jeditable.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/edit/js/views/ContextualLinkView.js",
+		"/Users/Macbob/Sites/demo/sites/all/modules/edit/README.txt",
+		"/Users/Macbob/Sites/demo/sites/all/modules/edit/js/edit.js",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_fpage/smart_fpage.admin.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views/modules/node/views_handler_filter_history_user_timestamp.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views/modules/node.views.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views/modules/statistics.views_default.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views_has_new/views_has_new.info",
+		"/Users/Macbob/Sites/demo/sites/all/modules/views_has_new/views_has_new.module",
+		"/Users/Macbob/Sites/watch2home/sites/all/modules/commerce_price_savings_formatter/commerce_price_savings_formatter.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_login/smart_login.pages.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_fpage/smart_fpage.install",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_login/smart_login.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_fpage/smart_fpage.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_login/smart_login.admin.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_login/smart_login.install",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/scripts/code.js",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/css/fredericbonnet.css",
+		"/Users/Macbob/Sites/homenet/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.effect-drop.js",
+		"/Users/Macbob/Sites/demo/sites/all/modules/devel/devel_generate/devel_generate.fields.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/devel/devel_generate/devel_generate.inc",
+		"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme/templates/views-view-fields--all-member-block.tpl.php",
+		"/Users/Macbob/Sites/homenet/sftp-config.json",
+		"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme/templates/views-view-fields--all-member-pane.tpl.php",
+		"/Users/Macbob/Sites/watch2home/sites/all/modules/contrib/commerce_stock/modules/commerce_sdf/commerce_sdf.module",
+		"/Users/Macbob/Sites/watch2home/sites/all/modules/contrib/commerce_stock/modules/commerce_ssr/commerce_ssr.rules_defaults.inc",
+		"/Users/Macbob/Sites/haaksquare/sites/all/modules/haaksqr/haaksms/haaksms.rules.inc",
+		"/Users/Macbob/Sites/haaksquare/sites/all/modules/haaksqr/haaksms/haaksms.pages.inc",
+		"/Users/Macbob/Sites/watch2home/sites/all/themes/commerce_kickstart_watch/css/global.css",
+		"/Users/Macbob/Sites/watch2home/sftp-config.json",
+		"/Users/Macbob/Sites/watch2home/sites/all/themes/commerce_kickstart_watch/css/commerce_kickstart_style.css",
+		"/Users/Macbob/.Trash/sftp-config.json",
+		"/Users/Macbob/Sites/oic/sites/all/modules/dev/jcarousel_oic/jcarousel_oic.module",
+		"/Users/Macbob/Sites/oic/sites/all/modules/dev/jcarousel_oic/jcarousel_oic.info",
+		"/Users/Macbob/Sites/oic/sites/all/modules/dev/jcarousel_oic/skins/joic/jcarousel-joic.css",
+		"/Users/Macbob/Sites/oic/sites/all/modules/dev/jcarousel_oic/skins/jcarousel-joic.css",
+		"/Users/Macbob/Sites/oic/sites/all/themes/omega/alpha/templates/page.tpl.php",
+		"/Users/Macbob/Sites/oic/sites/all/themes/oicmain/oicmain.info",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/templates/views-view-unformatted--uc-catalog--catalog-grid.tpl.php",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/css/default.css",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/templates/views-view-unformatted--gallery--default.tpl.php",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_fpage/smart_fpage.info",
+		"/Users/Macbob/Sites/fred/sites/all/themes/fredericbonnet/scripts/jquery.bxSlider.min.js",
+		"/Users/Macbob/Sites/fred/sftp-config.json",
+		"/Users/Macbob/Sites/fred/sites/all/themes/adaptivetheme/adaptivetheme/templates/page--full-width-header-footer-example.tpl.php",
+		"/Users/Macbob/Sites/fred/sites/all/themes/adaptivetheme/adaptivetheme/templates/page.tpl.php",
+		"/Users/Macbob/Downloads/jquery.bxslider/jquery.bxslider.js",
+		"/Users/Macbob/Documents/Git/thai_index/README.md",
+		"/Users/Macbob/Documents/Git/smart_fpage/smart_fpage.info",
+		"/Users/Macbob/Documents/Git/search_limit/search_limit.module",
+		"/Users/Macbob/Documents/Git/search_limit/search_limit.info",
+		"/Users/Macbob/Documents/Git/smart_fpage/smart_fpage.module",
+		"/Users/Macbob/Documents/Git/search_limit/search_limit.install",
+		"/Users/Macbob/Documents/Git/search_limit/search_limit.admin.inc",
+		"/Users/Macbob/Documents/Git/smart_fpage/smart_fpage.install",
+		"/Users/Macbob/Documents/Git/smart_fpage/smart_fpage.admin.inc",
+		"/Users/Macbob/Documents/Git/smart_fpage/README.md",
+		"/Users/Macbob/Sites/demo/sites/all/modules/province_thai/province_thai.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/province_thai/province_thai.info",
+		"/Users/Macbob/Sites/demo/sites/all/modules/smart_login/smart_login.info",
+		"/Users/Macbob/Sites/demo/sites/all/modules/nodejs/nodejs.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/nodejs/nodejs_config/nodejs_config.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/set_fpage/set_fpage.admin.inc",
+		"/Users/Macbob/Sites/demo/sites/all/modules/set_fpage/set_fpage.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/add_term/add_term.info",
+		"/Users/Macbob/Sites/demo/sites/all/modules/set_frontpage/set_frontpage.info",
+		"/Users/Macbob/Sites/demo/sites/all/modules/set_frontpage/set_frontpage.module",
+		"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules/contrib/commerce/modules/checkout/commerce_checkout.info",
+		"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules/contrib/rules/rules.info",
+		"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules/contrib/commerce/modules/payment/commerce_payment.rules.inc",
+		"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules/contrib/commerce/modules/payment/commerce_payment.info",
+		"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules/contrib/commerce/modules/price/commerce_price.rules.inc",
+		"/Users/Macbob/Sites/watch2home/sites/all/themes/commerce_kickstart_watch/css/commerce-kickstart-watch-alpha-default-normal.css",
+		"/Users/Macbob/Documents/Git/galleryformatter/galleryformatter.info",
+		"/Users/Macbob/Documents/Git/galleryformatter/galleryformatter.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/galleryformatter/galleryformatter.module",
+		"/Users/Macbob/Sites/demo/sites/all/modules/galleryformatter/includes/galleryformatter_imagestyles.inc",
+		"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai/biothai.info",
+		"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai/templates/field--field_image.tpl.php",
+		"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai/theme-settings.php",
+		"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai/style.css",
+		"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai/style-gray.css",
+		"/Users/Macbob/Documents/Git/province_thai/README.md",
+		"/Users/Macbob/Sites/faq/csv.php",
+		"/Users/Macbob/Sites/faq/Connections/connection.php",
+		"/Users/Macbob/Sites/faq/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Macbob/Sites/homenet/sites/all",
+			"/Users/Macbob/Sites/homenet/sites/all/themes",
+			"/Users/Macbob/Sites/pop/sites/all/themes",
+			"/Users/Macbob/Sites/pop/sites/all",
+			"/Users/Macbob/Documents/Projcet/pop/themeforest-6940345-magnum-creative-portfolio-drupal-theme/md-magnum",
+			"/Users/Macbob/Sites/watch2home/sites",
+			"/Users/Macbob/Sites/homenet/sites/all/modules",
+			"/Users/Macbob/Sites/homenet/sites/all/modules/i18n/i18n_sync",
+			"/Users/Macbob/Sites/demo/sites/all/modules/jeditable",
+			"/Users/Macbob/Sites/demo/sites/all/modules",
+			"/Users/Macbob/Sites/demo/sites/all/modules/views",
+			"/Users/Macbob/Sites/demo/sites/all/modules/smart_login",
+			"/Users/Macbob/Sites/homenet/sites/all/modules/jquery_update",
+			"/Users/Macbob/Sites/demo/sites/all/modules/devel/devel_generate",
+			"/Users/Macbob/Sites/demo/sites/all",
+			"/Users/Macbob/Sites/homenet/sites/all",
+			"/Users/Macbob/Sites/homenet/sites/all/modules",
+			"/Users/Macbob/Sites/watch2home/sites/all/modules/contrib/commerce_stock",
+			"/Users/Macbob/Sites/haaksquare/sites/all/modules/haaksqr/haaksms",
+			"/Users/Macbob/Sites/haaksquare",
+			"/Users/Macbob/Sites/fred/sites/all/themes",
+			"/Users/Macbob/Sites/fred/sites/all/themes/adaptivetheme",
+			"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart/modules",
+			"/Users/Macbob/Sites/pressblog/sites/all/themes/biothai",
+			"/Users/Macbob/Sites/homenet/sites/all/modules/haaksqr",
+			"/Users/Macbob/Sites/demo/sites/all/modules/examples/ajax_example",
+			"/Users/Macbob/Sites/watch2home",
+			"/Users/Macbob/Sites/biothai/themes/bartik",
+			"/Users/Macbob/Sites/fred/sites",
+			"<project>",
+			"/Users/Macbob/Sites/homenet",
+			"/Users/Macbob/Sites/homenet/sites/all/modules",
+			"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib/site_map",
+			"/Users/Macbob/Sites/oic",
+			"<project>",
+			"/Users/Macbob/Sites/homenet/sites/all/themes/homenettheme",
+			"<project>",
+			"/Users/Macbob/Sites/watch2home/profiles/commerce_kickstart",
+			"/Users/Macbob/Sites/haaksquare/sites/all/modules/haaksqr",
+			"/Users/Macbob/Sites/haaksquare",
+			"/Users/Macbob/Sites/watch2home",
+			"<project>",
+			"/Users/Macbob/Sites/cigna/sites/all/modules/easy_social",
+			"/Users/Macbob/Sites/cigna/sites/all/modules/simplenews",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib/fullcalendar",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib/ckeditor/ckeditor/plugins/imagemap",
+			"/Users/Macbob/Sites/cigna",
+			"/Users/Macbob/Sites/demo/themes/seven",
+			"/Users/Macbob/Sites/demo/sites/all/themes/bootstrap",
+			"<project>",
+			"/Users/Macbob/Sites/hugcondo/sites/all/themes/bootstrap",
+			"/Users/Macbob/Sites/oic/sites/all/themes/omega",
+			"/Users/Macbob/Sites/oic/sites/all/themes/oicmain",
+			"/Users/Macbob/Sites/hugcondo/sites/all/themes/bootstrap",
+			"/Users/Macbob/Sites/demo/sites/all/modules/simplenews",
+			"/Users/Macbob/Sites/oic/sites/all/libraries/ckeditor",
+			"/Users/Macbob/Desktop/oic/webform",
+			"/Users/Macbob/Desktop/oic/webform2pdf",
+			"/Users/Macbob/Sites/demo/sites/all/modules/simplenews",
+			"/Users/Macbob/Sites/demo/sites/all/modules/simplenews_realname",
+			"/Users/Macbob/Sites/demo/sites/all/modules/simplenews",
+			"/Users/Macbob/Desktop/p_note/ostnote/goodnex-drupal-files/drupal_7/sites/all/themes/goodnex",
+			"/Users/Macbob/Documents/Projcet/hugcondo/modules/simpleads",
+			"/Users/Macbob/Sites/oic",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib/calendar_systems",
+			"/Users/Macbob/Sites/oic",
+			"/Users/Macbob/Sites/oic/includes",
+			"/Users/Macbob/Sites/oic",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib",
+			"/Users/Macbob/Sites/oic/sites/all/modules/contrib/calendar",
+			"/Users/Macbob/Sites/groovinman",
+			"<project>",
+			"/Users/Macbob/Documents/Projcet/mamlivng/themes/mam"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user_login_block",
+			"this.value == 'อีเมล'",
+			"Hello!",
+			"header",
+			"LET ME TELL\nYOU A STOR",
+			"Jquery ScrollTo Path",
+			"commerce_checkout_redirect",
+			"haak_square_community_admin",
+			"q",
+			"label",
+			"block",
+			"i18n_sync_form_node_admin_content_alter",
+			"jEditable textfield",
+			"Quick edit",
+			"haaksqr_get_current_home_community_id",
+			"haaksqr_get_current_home_community_path",
+			"Has new content",
+			"    $",
+			"$node->created = $values->{$this->aliases['created']};",
+			"views_date_thai",
+			"smart_login_theme_callback",
+			"smart_login_admin_theme",
+			"smart_login_admin_destination",
+			"smart_login_destination",
+			"Theme",
+			"view-id-gallery",
+			"jquery_update_make_library_hook_to_file_name_segment_map_for_effects",
+			"devel_generate_content_form",
+			"www.lipsum.com",
+			"Your comment...",
+			"feed-comment-info",
+			"Last !count comments",
+			"Last +count comments",
+			"Last count comments",
+			"Last @count comments",
+			"Last comments",
+			"Out of stock",
+			"haaksms_submit_sms_now",
+			"haaksms_send_sms",
+			"Send SMS to Community Member",
+			"jcarousel-skin-default",
+			"				.",
+			"bx-window",
+			"				.",
+			"bx-window",
+			"\"main-content\"",
+			"id=\"main-content\"",
+			"< id=\"main-content\">",
+			"conten",
+			"RulesUI",
+			"RulesDataUIPaymentSettings",
+			"Open Sans",
+			".view-display-tvi li header a",
+			"commerce_cart_form",
+			"link_to_full",
+			"thumb_style",
+			"js/flexslider/jquery.flexslider.js",
+			".view-latest-objects .views-field-title a",
+			".field-type-taxonomy-term-reference .field-label",
+			".node.node-teaser",
+			".view-latest-objects .views-field-title",
+			".slider-text .entry-title",
+			"#header-navigation .block-superfish",
+			");\n",
+			"mtt_",
+			"pressblog_",
+			"pressblog",
+			"pressblog-",
+			"(pressblog-",
+			"(pressblog-)",
+			"extension",
+			"myModule_Table",
+			"post",
+			"user",
+			"',",
+			" '",
+			"ดาวน์โหลด",
+			"ดาวน์โห",
+			"product",
+			"ดาวน์โหลด",
+			"'#default_value' => variable_get('nodejs_config_publishUrl', base_path()",
+			"Inviting neighbor to be a member of Haak Square Community ",
+			"Community Members",
+			"ajax_example_dynamic_sections",
+			"dynamic_sections",
+			"pinth",
+			"check_pin",
+			"haaksqr_get_current_home_community_id",
+			"all_items",
+			"_magnific_popup_gallery_options",
+			"slider-text",
+			".view-latest-objects",
+			"zone-content",
+			".view-latest-objects",
+			"a ",
+			"theme",
+			"vt_commerce_image_default",
+			"vt_commerce_image_d",
+			"bob",
+			"web",
+			"node-product-type-full",
+			"node-product-display",
+			"branding",
+			"sidebarborders",
+			"aslist",
+			"webform_display_select",
+			"aslist",
+			"_webform_render",
+			"custom_keys",
+			"aslist",
+			"_select",
+			"imagesloaded",
+			"jquery.imagesloaded",
+			"community-news-title",
+			"all_items",
+			"localhost",
+			".register-form #edit-og-user-node-und-0-default",
+			".front",
+			".font",
+			"talk_photo_container",
+			"Add Photo",
+			"num_photo",
+			"Display a site map with RSS feeds.",
+			"global",
+			"globatl",
+			"gobal",
+			".css",
+			"box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"views_has_new",
+			"jcarousel-skin-joic",
+			"bio_",
+			"biothai_",
+			"' => array(),",
+			"'",
+			",",
+			"",
+			"_field_views",
+			"field_views",
+			"Edifice Chronograph EFM Marine Line",
+			"Data bank",
+			"นาฬิกา Diesel Limited Edition",
+			"Casio Edifice Chronograph สาย หนัง",
+			"G-Shock Bluetooth",
+			"Swiss Legend Trimix Diver",
+			"Swiss Legend Neptune",
+			"Victorinox Swiss Army Women",
+			"นาฬิกา Fossil Men Mechanical",
+			"นาฬิกา DKNY สีทอง",
+			"นาฬิกา DKNY สาย Stainless",
+			"นาฬิกา DKNY สายซิลิโคน",
+			"นาฬิกา DKNY สายหนัง",
+			"นาฬิกา Guess ผู้ชาย สาย Stainless",
+			"นาฬิกา Guess ผู้ชาย สายหนัง",
+			"นาฬิกา Guess ผู้ชาย สายเรซิ่น",
+			"Land",
+			"G-Shock MTG",
+			"Timex Atlantis 100",
+			"Victorinox Swiss Army Men",
+			"Timex Automatic",
+			"นาฬิกา Diesel สายผ้า",
+			"Timex Heart Rate Monitors",
+			"นาฬิกา Fossil Men Dress",
+			"นาฬิกา Fossil Men Casual",
+			"นาฬิกา Fossil Men Ceramic",
+			"Casio Edifice Chronograph สาย เรซิ่น",
+			"นาฬิกา DKNY สาย Ceramic",
+			"Standard Digital",
+			"Sea",
+			"นาฬิกา Diesel สาย Stainless",
+			"นาฬิกา Diesel สายเรซิ่น",
+			"นาฬิกา Guess ผู้หญิง สายพลาสติก",
+			"นาฬิกา Guess ผู้หญิง สายหนัง",
+			"นาฬิกา Guess ผู้หญิง สาย Stainless",
+			"Timex GPS",
+			"Timex Ironman Women",
+			"Timex Weekender",
+			"Timex Classics Dress",
+			"นาฬิกา Fossil Women Aluminum",
+			"Air",
+			"Baby-G Limited Models",
+			"Beside",
+			"Timex Ironman",
+			"Timex Expedition Military Field",
+			"Timex Expedition Digitals",
+			"Timex Expedition Analog",
+			"Fossil Women",
+			"นาฬิกา Fossil Women Ceramic",
+			"G-Shock Garish Black Collection",
+			"Duro 200",
+			"G-Shock G-Lide Extreme sports",
+			"Baby-G Standard Digital",
+			"Baby-G 200M Water resistance",
+			"Timex Expedition Compass",
+			"Standard  Solar Power Digital",
+			"Fossil Men",
+			"นาฬิกา Diesel สายหนัง",
+			"นาฬิกา Diesel Black Out",
+			"นาฬิกา Fossil Women Boyfriend",
+			"นาฬิกา Fossil Women Lather",
+			"นาฬิกา Fossil Women Delicate",
+			"นาฬิกา Fossil Men Sport",
+			"Sheen 3-hand analog",
+			"Sheen Cruise Line",
+			"Sheen Multi-hand",
+			"Edifice Chronograph  EFR series",
+			"Poptone",
+			"G-Shock Master of G",
+			"G-Shock Limited Models",
+			"G-Shock Standard Digital",
+			"G-Shock Standard ANA-DIGI",
+			"Standard Analog",
+			"Edifice ANA-DIGI",
+			"Outgear",
+			"Standard Digital",
+			"Edifice Chronograph EQS Series",
+			"Sheen Chronograph",
+			"Standard Active dial",
+			"Standard 10 Year battery - Digital",
+			"Edifice Chronograph EFB / EFE series",
+			"G-Shock Gravity Defier",
+			"นาฬิกา DKNY สายพลาสติก",
+			"นาฬิกาคู่",
+			"Standard Analog",
+			"Edifice Chronograph EF Series",
+			"Edifice Multi-hand    ",
+			"Edifice 3-hand analog",
+			"Protrek",
+			"Baby-G Standard ANA-DIGI",
+			"Tendence",
+			"Casio Data bank",
+			"Swiss Legend",
+			"Columbia",
+			"U-Boat",
+			"Suunto",
+			"Police",
+			"Timberland",
+			"Michael Kors",
+			"Victorinox Swiss Army",
+			"Guess",
+			"Luminox",
+			"Casio Beside",
+			"Marc Ecko",
+			"Seiko",
+			"Cross",
+			"Casio Duro 200",
+			"Bowflex",
+			"Timex",
+			"Casio Outgear",
+			"Diesel",
+			"Fossil",
+			"Casio Poptone",
+			"Casio Sheen",
+			"Casio Edifice",
+			"DKNY",
+			"Nautica",
+			"Casio G-Shock"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 133.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
